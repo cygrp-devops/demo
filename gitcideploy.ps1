@@ -1,7 +1,7 @@
 ﻿Get-AzureRmSubscription –SubscriptionName "Taha Visual Studio Enterprise" | Select-AzureRmSubscription
 
 $gitrepo="https://github.com/cygrp-devops/demo.git"
-$gittoken="6a6055338031b0811402987abdf54ec081057691"
+$gittoken="06a6055338031b0811402987abdf54ec0810576910"
 $webappname="tahaWebApplication1"
 $location="SouthCentralUS"
 
